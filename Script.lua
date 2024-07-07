@@ -1,7 +1,3 @@
--- Copy from where it says wait(5) this is not my script so I will not take script credits
-
--- Discord server coming soon
-
 wait(5)
 
 --[[ Info ]]--
