@@ -1,5 +1,3 @@
-wait(5)
-
 --[[ Info ]]--
 
 local ver = "2.00"
