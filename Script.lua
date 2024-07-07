@@ -82,11 +82,11 @@ notifSound.SoundId = "rbxassetid://170765130"
 notifSound.PlayOnRemove = true
 notifSound:Destroy()
 game.StarterGui:SetCore("SendNotification", {Title = "FE Flip Script Made By _offlineplayer_", Text = "FE Flip Script Loaded", Icon = "rbxassetid://505845268", Duration = 5, Button1 = "Okay"})
-
+wait()
 local notifSound = Instance.new("Sound",workspace)
 notifSound.PlaybackSpeed = 1.5
 notifSound.Volume = 0.15
 notifSound.SoundId = "rbxassetid://170765130"
 notifSound.PlayOnRemove = true
 notifSound:Destroy()
-game.StarterGui:SetCore("SendNotification", {Title = "〰 How To Use 〰", Text = "〰 Keybinds : Z , X , C 〰", Icon = "rbxthumb://type=Asset&id=5107182114&w=150&h=15", Duration = 3, Button1 = "Okay"})
+game.StarterGui:SetCore("SendNotification", {Title = "〰 How To Use 〰", Text = "〰 Keybinds : Z , X , C 〰", Icon = "rbxthumb://type=Asset&id=5107182114&w=150&h=150", Duration = 3, Button1 = "Okay"})
